@@ -13,7 +13,7 @@ The chat can be a group or channel. It can be private or public.
 
 Use below buttons to learn more !
 
-By @StarkBots
+Made By @LG_Bot_Updates 
     """
 
     # Home Button
@@ -28,7 +28,7 @@ By @StarkBots
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
             InlineKeyboardButton("🎪 About 🎪", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/StarkBots")],
+        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/LG_Bot_Update ")],
         [InlineKeyboardButton("🎨 Support Group 🎨", url="https://t.me/StarkBotsChat")],
     ]
 
