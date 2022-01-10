@@ -23,13 +23,13 @@ Made By @LG_Bot_Updates
 
     # Rest Buttons
     buttons = [
-        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/StarkBots/7")],
+        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/LG_Bot_Updates/4")],
         [
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
             InlineKeyboardButton("🎪 About 🎪", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/LG_Bot_Update ")],
-        [InlineKeyboardButton("🎨 Support Group 🎨", url="https://t.me/StarkBotsChat")],
+        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/LG_Bot_Updates")],
+        [InlineKeyboardButton("🎨 Support Group 🎨", url="https://t.me/+bsTf93bUeUM4Yjc1")],
     ]
 
     # Help Message
@@ -61,14 +61,13 @@ Example : `/fsub -1001505616678` or `/forcesubscribe -1001375849192`
     # About Message
     ABOUT = """
 **About This Bot** 
+A telegram force subscribing bot by @LG_Bot_Updates
 
-A telegram force subscribing bot by @StarkBots
-
-Source Code : [Click Here](https://github.com/StarkBotsIndustries/ForceSubscribeBot)
+Source Code : [Click Here](https://t.me/LG_Bot_Updates)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
 
-Developer : @StarkProgrammer
+Developer : @LG_Bot_Updates 
     """
