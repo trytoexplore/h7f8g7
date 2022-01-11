@@ -12,7 +12,7 @@ Telegram bot to force users to subscribe a particular chat.
 
 ### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/StarkBotsIndustries/ForceSubscribeBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LG-Bot-Updates/Force-Subscribe-Bot)
 
 1. Tap on above button and fill `API_ID`, `API_HASH`, `BOT_TOKEN` (and `MUST_JOIN`).
 2. Then tap "Deploy App" below it. Wait till deploying is complete (will take atmost 2 minutes).
@@ -66,14 +66,14 @@ Telegram bot to force users to subscribe a particular chat.
 
 ## Support
 
-Channel :- [@StarkBots](https://t.me/StarkBots)
+Support Channel :- [@LG_Bot_Updates](https://t.me/LG_Bot_Updates)
 
-Group Chat :- [@StarkBotsChat](https://t.me/StarkBotsChat)
+Support Group :- [Click Here](https://t.me/StarkBotsChat)
 
 ## :)
 
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/StarkBotsIndustries)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/LG_Bot_Updates)
 
-[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://github.com/StarkBotsIndustries)
+[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://github.com/LG_Bot_Updates)
