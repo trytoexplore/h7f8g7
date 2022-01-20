@@ -19,7 +19,16 @@ async def must_join_channel(bot: Client, msg: Message):
                 link = chat_info.invite_link
             try:
                 await msg.reply(
-                    f"You must join [this channel]({link}) to use me. After joining try again !",
+                    f"**Hey {user_mentoins}👋,You Haven't Joined To Our Channel Yet☹️!So You Have Been Muted !!!**/n/n
+
+**Do The Following Steps To Unmute Yourself**/n/n
+
+● First Join @{channel} 😊
+
+●Then Press Unmute Me Button 
+
+● Now You Can Post Messages 🥳 ",
+
                     disable_web_page_preview=True,
                     reply_markup=InlineKeyboardMarkup([
                         [InlineKeyboardButton("✨ Join Channel ✨", url=link)]
