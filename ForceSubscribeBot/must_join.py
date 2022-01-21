@@ -19,9 +19,9 @@ async def must_join_channel(bot: Client, msg: Message):
                 link = chat_info.invite_link
             try:
                 await msg.reply(
-                    f"**Hey {user_mentoins}👋,You Haven't Joined To Our Channel Yet☹️!So You Have Been Muted !!!**
+                    f"Hey {user_mentoins}👋,You Haven't Joined To Our Channel Yet☹️!So You Have Been Muted !!!
                     
-                    **Do The Following Steps To Unmute Yourself**
+                    Do The Following Steps To Unmute Yourself
                     
                     ● First Join [this channel]({link})😊
                     ● Then Press Unmute Me Button
