@@ -23,12 +23,12 @@ Made By @LG_Bot_Updates
 
     # Rest Buttons
     buttons = [
-        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/LG_Bot_Updates/4")],
+        [InlineKeyboardButton("Add Me To Your Group", url="https://t.me/LG_force_subscribe_bot?startgroup=True")],
         [
-            InlineKeyboardButton("How to Use ❔", callback_data="help"),
+            InlineKeyboardButton("How to Use Me❔", callback_data="help"),
             InlineKeyboardButton("🎪 About 🎪", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/LG_Bot_Updates")],
+        [InlineKeyboardButton("♥ Bot Updates ♥", url="https://t.me/LG_Bot_Updates")],
         [InlineKeyboardButton("🎨 Support Group 🎨", url="https://t.me/+bsTf93bUeUM4Yjc1")],
     ]
 
@@ -68,6 +68,10 @@ Source Code : [Click Here](https://t.me/LG_Bot_Updates)
 Framework : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
+
+Bot Updates : @LG_Bot_Updates 
+
+Support Group : [LG Bots Support] (https://t.me/+bsTf93bUeUM4Yjc1) 
 
 Developer : @LG_Bot_Updates 
     """
